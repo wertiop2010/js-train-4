@@ -210,7 +210,7 @@ function trimString(original, side) {
   // Якщо значення аргументу "side" дорівнює "both"
   // Повертаємо рядок, в якому видалені пробіли з обох сторін
   // Якщо значення аргументу "side" не є ні "start", ні "end", ні "both", повертаємо повідомлення "Error: side should be either 'start', 'end' or 'both'"
-  return "Error: side should be either 'start', 'end' or 'both'";
+  //return "Error: side should be either 'start', 'end' or 'both'";
 }
 
 console.log("Завдання 13 ====================================");
